@@ -1,0 +1,14 @@
+D:\Meus Documentos\Desktop\projeto c#\aulas\bin\Debug\net8.0\aulas.exe
+D:\Meus Documentos\Desktop\projeto c#\aulas\bin\Debug\net8.0\aulas.deps.json
+D:\Meus Documentos\Desktop\projeto c#\aulas\bin\Debug\net8.0\aulas.runtimeconfig.json
+D:\Meus Documentos\Desktop\projeto c#\aulas\bin\Debug\net8.0\aulas.dll
+D:\Meus Documentos\Desktop\projeto c#\aulas\bin\Debug\net8.0\aulas.pdb
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\aulas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\aulas.AssemblyInfoInputs.cache
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\aulas.AssemblyInfo.cs
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\aulas.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\aulas.dll
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\refint\aulas.dll
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\aulas.pdb
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\aulas.genruntimeconfig.cache
+D:\Meus Documentos\Desktop\projeto c#\aulas\obj\Debug\net8.0\ref\aulas.dll
